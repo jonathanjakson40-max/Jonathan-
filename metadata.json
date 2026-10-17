@@ -1,0 +1,6 @@
+{
+  "name": "piccque",
+  "description": "Generate quizzes, flashcards, and study questions from uploaded photos, book pages, and PDF documents using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
